@@ -9,5 +9,5 @@ export const ethereumChains = [
   'moonriver',
   'moonshadow',
   'origintrail-parachain',
-  'alpha_ceti_local'
+  'alpha_ceti-local'
 ];
